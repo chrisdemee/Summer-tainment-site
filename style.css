@@ -1,0 +1,39 @@
+h1 {
+    font-family: "harri-text", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    font-family: "pilsner", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  
+  body {
+    text-align: center;
+  }
+  td {
+    font-family: "harri-text", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  video {
+    width: 80%;
+    height: 80%;
+    padding-left: 100px;
+  }
+  .red {
+    width: 20%;
+    height: 20%;
+  }
+  a {
+    align-items: center;
+  }
+  
